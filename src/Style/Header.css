@@ -1,0 +1,15 @@
+/* Header.css */
+.custom-header-bg {
+  background-color: #4CAF50; /* Cambia este valor al color que necesitas */
+  padding-top: 8px; /* Ajusta el padding superior */
+  padding-bottom: 8px; /* Ajusta el padding inferior */
+}
+
+.header-logo {
+  width: 150px; /* Reducimos el tamaño del logo */
+  height: 60px; /* Reducimos el tamaño del logo */
+}
+
+.logo-container {
+  margin-left: -40px; /* Mueve el logo más a la izquierda */
+}
